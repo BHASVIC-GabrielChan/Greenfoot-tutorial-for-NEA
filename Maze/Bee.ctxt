@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bee
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bee\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Bee()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=boolean\ checkWall()
+comment5.params=
+comment5.target=void\ checkHoney()
+comment6.params=
+comment6.target=void\ checkTeleporter()
+comment7.params=
+comment7.target=boolean\ checkEnemy()
+comment8.params=
+comment8.target=void\ youLose()
+comment9.params=
+comment9.target=void\ youWin()
+numComments=10
